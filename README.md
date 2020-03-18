@@ -18,7 +18,7 @@ times. This kind of comparison is independent of machine time, programming style
 Rate of Growth: The rate at which the running time increases as a function of input is called rate of growth.
 1, logn, n, nlogn, n2,n3, 2n
 
-Types of Analysis (Worst Case, BEst Case, Average Case ANalysis):
+Types of Analysis (Worst Case, Best Case, Average Case Analysis):
 To analyze the given algorithm, we need to know with which inputs the algorithm takes less time
 (performing well) and with which inputs the algorithm takes a long time. We have already seen
 that an algorithm can be represented in the form of an expression. That means we represent the
@@ -31,15 +31,15 @@ Asymtotic Notation:
 Big-O Notation:
 
 Algorithm design techniques (clasification of algorithms by design method:
-1. Divide and Conquer (Devide, recursion, conquer)
+1. Divide and Conquer (Divide, recursion, conquer)
 2. Greedy
 3. Dynamic Programming
 4. Linear Programming
-5. Reduction (Transforma nd conquer)
+5. Reduction (Transform and conquer)
 
 classification by Implementation methods:
 1. Recursion or Iteration
-2. PRocedural or Declarative
+2. Procedural or Declarative
 3. Serial or parallel or distributive
 4. Deterministic or Non-Deterministic
 5. Exact or Appropriate
